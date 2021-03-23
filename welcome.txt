@@ -1,2 +1,1 @@
 Print ("welcome")
-print("How do you do")
